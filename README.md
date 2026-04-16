@@ -12,3 +12,5 @@ py -m venv .venv
 # Linux/macOS
 python3 -m venv .venv
 source .venv/bin/activate
+
+docs/workflow.md
